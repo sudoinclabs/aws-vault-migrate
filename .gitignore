@@ -1,0 +1,3 @@
+build/**
+dist/**
+aws_vault_migrate.egg-info/**
