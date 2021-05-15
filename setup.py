@@ -8,7 +8,7 @@ long_description = 'AWS-Vault migrate to help migrate from plain text credential
 
 setup(
         name ='aws-vault-migrate',
-        version ='0.1.0',
+        version ='0.2.0',
         author ='Hameedullah Khan',
         author_email ='hameed@sudo.inc',
         url ='https://github.com/sudoinclabs/aws-vault-migrate',
